@@ -17,4 +17,5 @@ CSS3: For all the styling, with a heavy emphasis on:
 Flexbox: This was the star of the show for me! I used Flexbox extensively for creating flexible and dynamic rows and columns, aligning items, and distributing space within containers.
 Media Queries: To make the layout adapt for different screen widths.
 
-# Please Note: This is a UI clone made purely for educational purposes and to demonstrate my front-end development skills. I do not own the original Dribbble design or branding. All credit for the original design goes to Dribbble.
+# Credits and Disclaimer
+The original UI design, all images, and the Dribbble logo are the sole property of Dribbble. This project is a recreation for educational and portfolio purposes only and is not affiliated with Dribbble.
